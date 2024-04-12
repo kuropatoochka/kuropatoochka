@@ -1,5 +1,11 @@
-<body>
-  <center>
+<div id="header" align="center">
+  <div id="header--info">
+    <h1>Hi there, I'm Valentina💜</h1>
+  </div>
+  <div id="header--img">
+    <img src="[https://storyset.com/web](https://storyset.com/illustration/coding/cuate#7E57C2FF&hide=&hide=complete)">
+  </div>
+</div>
     <h1 align="center">ᗯEᒪᑕOᗰE</h1>
     <div>
       <img src="https://i.pinimg.com/564x/f9/47/c0/f947c0574b6c70f1c247acd9f8f52955.jpg" align="right" width=45%>
@@ -43,5 +49,3 @@
           <p align="center"><a href="https://t.me/kuropatoochka" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
 <a href="https://discord.com/users/752226099424919672" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
         </div>
-  </center>
-</body>
