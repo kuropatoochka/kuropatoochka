@@ -1,31 +1,45 @@
-<div id="header" align="center">
+<div id="header">
   <div id="header--info">
-    <h1>Hi there, I'm Valentina💜</h1>
-  </div>
-  <div id="header--img">
-    <img src="[https://storyset.com/web](https://storyset.com/illustration/coding/cuate#7E57C2FF&hide=&hide=complete)">
+    <h2>Hi there, I'm Valentina💜</h2>
+    <img id="header--img" src="https://github.com/kuropatoochka/kuropatoochka/blob/42fec229ade330f83988571173bf14c1f3ce2eb9/header--img.svg" align="right" width="40%">
+    <strong styles="color: #7E57C2">About me:</strong>
+    <ul>
+      <li>Strive to become a great frontend developer;</li>
+      <li>Study at ITMO University, St. Petersburg;</li>
+      <li>Create mini websites just for fun, using Figma for design;</li>  
+    </ul>
   </div>
 </div>
-    <h1 align="center">ᗯEᒪᑕOᗰE</h1>
-    <div>
-      <img src="https://i.pinimg.com/564x/f9/47/c0/f947c0574b6c70f1c247acd9f8f52955.jpg" align="right" width=45%>
-      <br><br>
-      <li>
-      <b>Name:</b> Valya Petrova
-    </li>
-       <li><b>Gender:</b> she/her.
-       </li>
-<li><b>Loves:</b> asian food.</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Drawing, Game Development.
-</li>
-<li>
-<b>Studying rn</b> (I made projects <i>just for fun</i>).
-</li>
-<li>I graduate in 2025, hehehehehe.
-</li>
-    </div>
-    <br><br><br><br><br><br><br>
+<div id="skills--container">
+  <strong>Languages and tools:</strong>
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="javascript" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" width="50px" />                    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" title="python" width="50px"/><br><br>
+  <strong>Programming and software environments:</strong>
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" title="webstorm" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" title="ubuntu" width="50px"/>
+</div><br>
+<div id="stats" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuropatoochka&theme=tokyonight" width="100%">
+  <br><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kuropatoochka&theme=tokyonight" width="40%" align="left">
+  <div id="contacts">
+    <strong >Contact me:</strong>
+    <br><br>
+    <a href="https://t.me/kuropatoochka" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a><br> 
+    <a href="https://discord.com/users/752226099424919672" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  </div>
+</div>
+
+
+
+<!--     <br><br><br><br><br><br><br>
     <div>
     <h1 align="center">KᑎOᗯᒪEᗪGE</h2>
     <p align="center"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -49,3 +63,4 @@
           <p align="center"><a href="https://t.me/kuropatoochka" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
 <a href="https://discord.com/users/752226099424919672" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p>
         </div>
+ -->
